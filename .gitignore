@@ -1,0 +1,13 @@
+*.[oa]
+*~
+*.h
+
+*.opensdf
+*.sdf
+*.sln
+*.txt
+*.vcxproj
+*.filters
+*.ipch
+*.vs
+stdafx.cpp
